@@ -15,11 +15,10 @@
 
 > * 可能引起内存泄漏
 ``` java     
-    private final Handler handler = new Handler() {
+     private final Handler handler = new Handler() {
         @Override
         public void handleMessage(Message msg) {
-
         }
-    };
+     };
 ```
 
