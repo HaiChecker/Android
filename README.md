@@ -18,3 +18,9 @@ Android 问题总结、理解、解析，记录Android容易忽略的问题
 希望大家提交过后修改README的 文件、目录说明方便来者阅读
 
 大家一起学习，共享问题，提高自己。
+
+
+
+## 感谢以下作者 `排名不分先后`：
+* [@goeasyway](http://www.jianshu.com/users/f9fbc7a39b36/latest_articles)
+
