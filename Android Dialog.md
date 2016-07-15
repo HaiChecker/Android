@@ -1,5 +1,5 @@
 # 目录
-###### [1. Dialog错误： BadTokenException: Unable to add window -- token null is not for an application？](#ROP_ARM)
+###### [1. Dialog错误： BadTokenException: Unable to add window -- token null is not for an application？](#1)
 
 
 
@@ -10,7 +10,10 @@
 
 
 
-## [1. Dialog错误： BadTokenException: Unable to add window -- token null is not for an application？](#ROP_ARM)
+* * *
+
+<h2 id="1">1. Dialog错误： BadTokenException: Unable to add window -- token null is not for an application？</h2>
+
 
 #### 解答：
 **先来理清一些概念**
