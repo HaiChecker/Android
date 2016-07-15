@@ -11,6 +11,7 @@ Android 问题总结、理解、解析，记录Android容易忽略的问题
 | Android Service.md       | Android Service 相关问题以及知识点  |
 | Android Handler.md       | Android Handler 相关问题以及知识点  |
 | Android Looper.md        | Android Looper 相关问题以及知识点   |
+| Android Dialog.md        | Android Dialog 相关问题以及知识点   |
 | Java.md                  | Java 基础问题已经知识点             |
 | Interview                | 面试经验以及面试题目                |
 
